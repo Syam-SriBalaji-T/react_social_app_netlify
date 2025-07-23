@@ -45,7 +45,7 @@ export const DataProvider = ({children}) => {
     try{
       const response = await api.post('/posts', newPost);
 
-      const allPosts = [...posts, newPost];
+      const allPosts = [...posts, response.data];
 
       setPosts(allPosts);
       setPostTitle('');
