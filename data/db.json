@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "title": "post-3",
+      "datetime": "July 22, 2025 5:21:25 PM",
+      "body": "its gonna be a fkin hit\n"
+    },
+    {
+      "id": "4",
+      "title": "post-4",
+      "datetime": "July 23, 2025 9:46:57 PM",
+      "body": "im fkin back\n"
+    },
+    {
+      "id": "5",
+      "title": "post-5",
+      "datetime": "July 23, 2025 9:56:52 PM",
+      "body": "lets see"
+    },
+    {
+      "id": "6",
+      "title": "post-6",
+      "datetime": "July 24, 2025 3:54:15 AM",
+      "body": "this is the one"
+    }
+  ]
+}
